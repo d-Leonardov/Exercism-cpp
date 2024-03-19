@@ -46,6 +46,6 @@ namespace luhn {
     }
 }  // namespace luhnn
 
-int main() {
-    luhn::valid("19");
-}
+//int main() {
+//    luhn::valid("f1");
+//}

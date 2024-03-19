@@ -18,10 +18,16 @@
     <ClCompile Include="luhn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="hexadecimal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="luhn.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>
